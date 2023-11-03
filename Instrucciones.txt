@@ -1,0 +1,18 @@
+Necesitaras un virus tipo .DLL para hacer ingenieria social al objetivo y que este lo ingrese al dispositivo
+
+Objetivo:
+
+- Debes enviar un correo con tu ingenieria social y payload: kovaxsec@gmail.com
+
+- Buscar las 10 imagenes que estan dentro del computador 
+
+- Debes encontrar el archivo llamado "clase 2.2"
+
+- Por ultimo deja tu huella personal (un .txt con tu nombre artistico + que tenga algun contenido)
+
+Tiempo: 
+
+- 30 Minutos 
+
+
+Cuando lo logres deberas mandar pruebas a tu tutor buena suerte!
